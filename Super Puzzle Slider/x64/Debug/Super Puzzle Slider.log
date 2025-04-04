@@ -1,0 +1,6 @@
+﻿  main.cpp
+  SlidingPuzzlecpp.cpp
+C:\Users\chief\source\repos\Super Puzzle Slider\Super Puzzle Slider\SlidingPuzzlecpp.cpp(52,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+C:\Users\chief\source\repos\Super Puzzle Slider\Super Puzzle Slider\SlidingPuzzlecpp.cpp(33,1): warning C4715: 'SlidingPuzzle::getValidInput': not all control paths return a value
+  Super Puzzle Slider.vcxproj -> C:\Users\chief\source\repos\Super Puzzle Slider\x64\Debug\Super Puzzle Slider.exe
